@@ -1,0 +1,54 @@
+0
+E:/wj/code/panoramic ray tracing/resources/objmodels/presentBox/presentBox.obj
+scale 0.264
+rotateX 0
+rotateY 0.14
+rotateZ 0
+translation 0.219999, -0.98, -0.559998
+camForward -0.296525, -0.475624, -0.828163
+camZoom 90
+1
+E:/wj/code/panoramic ray tracing/resources/objmodels/bottle/bottle2.obj
+scale 0.248
+rotateX 0
+rotateY 0.5
+rotateZ 0
+translation -0.370001, -0.970001, -0.729998
+camForward -0.296525, -0.475624, -0.828163
+camZoom 90
+2
+E:/wj/code/panoramic ray tracing/resources/objmodels/hanger/hanger.obj
+scale 1
+rotateX 0
+rotateY 5.29
+rotateZ 0
+translation -1.8, -1.41, -2.27
+camForward -0.296525, -0.475624, -0.828163
+camZoom 90
+3
+E:/wj/code/panoramic ray tracing/resources/objmodels/tissueBox/tissueBox.obj
+scale 0.521
+rotateX 0
+rotateY 0.34
+rotateZ 0
+translation -0.480001, -0.7, -2.42
+camForward -0.296525, -0.475624, -0.828163
+camZoom 90
+4
+E:/wj/code/panoramic ray tracing/resources/objmodels/basketball/basketball.obj
+scale 0.521
+rotateX 0
+rotateY 0.34
+rotateZ 0
+translation -0.480001, -0.7, -2.42
+camForward -0.296525, -0.475624, -0.828163
+camZoom 90
+5
+E:/wj/code/panoramic ray tracing/resources/objmodels/bottle/bottle2.obj
+scale 0.212
+rotateX 0
+rotateY 6.06
+rotateZ 0
+translation -0.06, -0.85, -1.175
+camForward -0.296525, -0.475624, -0.828163
+camZoom 90

@@ -1,0 +1,54 @@
+0
+G:/PHD-related/2020/01-Real-time AR rendering/code2nd/model/teapot/utah-teapot.obj
+scale 0.011
+rotateX 0
+rotateY 4.92
+rotateZ 0
+translation -0.9163, -0.360499, -0.0561002
+camForward -0.962102, -0.258819, -0.085861
+camZoom 70
+1
+G:/PHD-related/2020/01-Real-time AR rendering/code2nd/model/sphere.obj
+scale 0.03
+rotateX 0
+rotateY 1.5
+rotateZ 0
+translation -0.4663, -0.2135, -0.3761
+camForward -0.962102, -0.258819, -0.085861
+camZoom 70
+2
+G:/PHD-related/2020/01-Real-time AR rendering/code2nd/model/bunny.obj
+scale 0.006
+rotateX 0
+rotateY 2.72
+rotateZ 0
+translation 0.23, -0.11, -0.41
+camForward -0.962102, -0.258819, -0.085861
+camZoom 70
+3
+G:/PHD-related/2020/01-Real-time AR rendering/code2nd/model/buddha/happy-buddha-jade.obj
+scale 0.166
+rotateX 0
+rotateY 4.74
+rotateZ 0
+translation 0.605, -0.355, -0.4
+camForward -0.962102, -0.258819, -0.085861
+camZoom 70
+4
+
+scale 0.166
+rotateX 0
+rotateY 5.5
+rotateZ 0
+translation 0.395001, -0.35, -0.624998
+camForward -0.962102, -0.258819, -0.085861
+camZoom 70
+5
+
+scale 1.4013e-44
+rotateX 5.96931e-39
+rotateY 1.69133e-36
+rotateZ 2.84869e-29
+translation 0, 0, 0
+camForward -0.962102, -0.258819, -0.085861
+camZoom 70
